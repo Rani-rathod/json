@@ -1,0 +1,23 @@
+[
+    {
+        "user_name": "Guddu",
+        "password": "happy#1",
+        "birth_of_date": "20/9/2019",
+        "mobile_number": 988562415,
+        "gender": "m"
+    },
+    {
+        "user_name": "Usha",
+        "password": "m@1",
+        "birth_of_date": "17-12-2003",
+        "mobile_number": 7835342669,
+        "gender": "f"
+    },
+    {
+        "user_name": "Rani Rathod",
+        "password": "mom#90",
+        "birth_of_date": "08-06-2004",
+        "mobile_number": 8996320315,
+        "gender": "f"
+    }
+]
